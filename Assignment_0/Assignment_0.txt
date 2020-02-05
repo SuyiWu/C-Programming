@@ -1,0 +1,6 @@
+Suyis-MBP:~ wusuyi$ cd desktop
+Suyis-MBP:desktop wusuyi$ cd 19Fall_Fordham/C++_Programming/Assignment_0
+Suyis-MBP:Assignment_0 wusuyi$ g++ -o Assignment_0 -std=c++17 proj0.cpp
+Suyis-MBP:Assignment_0 wusuyi$ ./Assignment_0
+Hello World
+Suyis-MBP:Assignment_0 wusuyi$ 

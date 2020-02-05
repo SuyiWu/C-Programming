@@ -1,0 +1,39 @@
+Suyis-MBP:~ wusuyi$ cd desktop
+Suyis-MBP:desktop wusuyi$ cd 19Fall_Fordham/C++_Programming/Assignment_2/Assignment_2/Assignment_2
+Suyis-MBP:Assignment_2 wusuyi$ g++ -o Assignment_2 -std=c++17 main.cpp
+Suyis-MBP:Assignment_2 wusuyi$ ./Assignment_2
+Please enter the coefficients of a quadratic equation a*x**2 + b*x + c:
+1 -3 2
+Trying to solve the quadratic equation 1*x*x + -3*x + 2 == 0
+Two Roots, x = 1 and x = 2
+Suyis-MBP:Assignment_2 wusuyi$ ./Assignment_2
+Please enter the coefficients of a quadratic equation a*x**2 + b*x + c:
+2 -6 4
+Trying to solve the quadratic equation 2*x*x + -6*x + 4 == 0
+Two Roots, x = 1 and x = 2
+Suyis-MBP:Assignment_2 wusuyi$ ./Assignment_2
+Please enter the coefficients of a quadratic equation a*x**2 + b*x + c:
+1 -2 1
+Trying to solve the quadratic equation 1*x*x + -2*x + 1 == 0
+One double root, x = 1
+Suyis-MBP:Assignment_2 wusuyi$ ./Assignment_2
+Please enter the coefficients of a quadratic equation a*x**2 + b*x + c:
+1 -2 4
+Trying to solve the quadratic equation 1*x*x + -2*x + 4 == 0
+No real roots.
+Suyis-MBP:Assignment_2 wusuyi$ ./Assignment_2
+Please enter the coefficients of a quadratic equation a*x**2 + b*x + c:
+0 2 4
+Trying to solve linear equation 2*x + 4 == 0
+Linear Equation, root: x = -2
+Suyis-MBP:Assignment_2 wusuyi$ ./Assignment_2
+Please enter the coefficients of a quadratic equation a*x**2 + b*x + c:
+0 0 0
+Trying to solve linear equation 0*x + 0 == 0
+This is an identity statement : 0 == 0.
+Suyis-MBP:Assignment_2 wusuyi$ ./Assignment_2
+Please enter the coefficients of a quadratic equation a*x**2 + b*x + c:
+0 0 1
+Trying to solve linear equation 0*x + 1 == 0
+This is a contradictory statement 1 == 0.
+Suyis-MBP:Assignment_2 wusuyi$ 

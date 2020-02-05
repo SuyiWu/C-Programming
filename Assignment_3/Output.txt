@@ -1,0 +1,47 @@
+Suyis-MBP:Practice_95_Assignment3 wusuyi$ cd /Users/wusuyi/Desktop/19Fall_Fordham/C++_Programming/Assignment_3
+Suyis-MBP:Assignment_3 wusuyi$ g++ -o Assignment_3 -std=c++17 Minidir.cpp
+Suyis-MBP:Assignment_3 wusuyi$ /Users/wusuyi/Desktop/19Fall_Fordham/C++_Programming/Assignment_3/Assignment_3
+Please enter name of read file: Minidir.txt
+Wheather this document is empty?
+0
+Employee List is 
+ YUWEN 706 347-209 
+ WEI 708 347-210 
+ WENYANG 709 347-211 
+ ANDY 710 347-212 
+ WENDY 711 347-213 
+After Sorting
+Enter the employee name you want to search 
+YUWEN
+The Employee Find Result is YUWEN 706 347-209
+Do you want to continue? 
+YES
+Enter the employee name you want to search 
+WEI
+The Employee Find Result is WEI 708 347-210
+Do you want to continue? 
+YES
+Enter the employee name you want to search 
+WENYANG
+The Employee Find Result is WENYANG 709 347-211
+Do you want to continue? 
+YES
+Enter the employee name you want to search 
+ANDY
+The Employee Find Result is ANDY 710 347-212
+Do you want to continue? 
+YES
+Enter the employee name you want to search 
+WENDY
+The Employee Find Result is WENDY 711 347-213
+Do you want to continue? 
+YES
+Enter the employee name you want to search 
+NO
+Cannot find this person! 
+The Employee Find Result is   
+Do you want to continue? 
+NO
+Enter 'exit' OR 'EXIT' to quit
+EXIT
+Suyis-MBP:Assignment_3 wusuyi$ 

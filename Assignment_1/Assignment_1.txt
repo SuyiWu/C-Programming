@@ -1,0 +1,77 @@
+Suyis-MBP:~ wusuyi$ cd desktop
+Suyis-MBP:desktop wusuyi$ cd 19Fall_Fordham/C++_Programming/Assignment_1/Assignment_1/Assignment_1
+Suyis-MBP:Assignment_1 wusuyi$ g++ -o Assignment_1 -std=c++17 proj1.cpp
+Suyis-MBP:Assignment_1 wusuyi$ ./Assignment_1
+Enter the number of coins you have for each denomination.
+Pennies?
+23
+Nickels?
+17
+Dimes?
+14
+Quarters?
+7
+Half dollars?
+3
+The value of all your coins is 573 cents
+Enter the number of coins you have for each denomination.
+Pennies?
+1
+Nickels?
+2
+Dimes?
+0
+Quarters?
+3
+Half dollars?
+2
+The value of all your coins is 186 cents
+Enter the number of coins you have for each denomination.
+Pennies?
+5
+Nickels?
+1
+Dimes?
+3
+Quarters?
+2
+Half dollars?
+1
+The value of all your coins is 140 cents
+Enter the number of coins you have for each denomination.
+Pennies?
+5
+Nickels?
+0
+Dimes?
+0
+Quarters?
+0
+Half dollars?
+0
+The value of all your coins is 5 cents
+Enter the number of coins you have for each denomination.
+Pennies?
+5
+Nickels?
+0
+Dimes?
+0
+Quarters?
+0
+Half dollars?
+2
+The value of all your coins is 105 cents
+Enter the number of coins you have for each denomination.
+Pennies?
+0
+Nickels?
+0
+Dimes?
+0
+Quarters?
+0
+Half dollars?
+0
+The value of all your coins is 0 cents
+Suyis-MBP:Assignment_1 wusuyi$ 

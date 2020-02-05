@@ -1,0 +1,94 @@
+
+Suyis-MBP:~ wusuyi$ cd /Users/wusuyi/Desktop/19Fall_Fordham/C++_Programming/Assignment_4
+Suyis-MBP:Assignment_4 wusuyi$ /Users/wusuyi/Desktop/19Fall_Fordham/C++_Programming/Assignment_4/vector_map
+Day 1
+Is any people work today? (Y/N)
+y
+Enter name and the hours for this day: 
+Yuri 10
+Are you finished all the info input? Please enter the (Y/N) 
+n
+Enter name and the hours for this day: 
+Wendy 8
+Are you finished all the info input? Please enter the (Y/N) 
+n
+Enter name and the hours for this day: 
+Andy 10
+Are you finished all the info input? Please enter the (Y/N) 
+n
+Enter name and the hours for this day: 
+May 8
+Are you finished all the info input? Please enter the (Y/N) 
+n
+Enter name and the hours for this day: 
+Garry 9
+Are you finished all the info input? Please enter the (Y/N) 
+y
+Next day 
+
+
+Day 2
+Is any people work today? (Y/N)
+y
+Enter name and the hours for this day: 
+Wendy 10
+Are you finished all the info input? Please enter the (Y/N) 
+n
+Enter name and the hours for this day: 
+Wendy 10
+You have already inputted the hours, and you cannot change your hours again
+Are you finished all the info input? Please enter the (Y/N) 
+n
+Enter name and the hours for this day: 
+Jack 5
+Are you finished all the info input? Please enter the (Y/N) 
+n
+Enter name and the hours for this day: 
+May 10
+Are you finished all the info input? Please enter the (Y/N) 
+y
+Next day 
+
+Day 3
+Is any people work today? (Y/N)
+n
+Next day 
+
+Day 4
+Is any people work today? (Y/N)
+y
+Enter name and the hours for this day: 
+Wendy 10
+Are you finished all the info input? Please enter the (Y/N) 
+n
+Enter name and the hours for this day: 
+Andy 7
+Are you finished all the info input? Please enter the (Y/N) 
+n
+Enter name and the hours for this day: 
+May 7
+Are you finished all the info input? Please enter the (Y/N) 
+n
+Enter name and the hours for this day: 
+Jack 8
+Are you finished all the info input? Please enter the (Y/N) 
+y
+Next day 
+
+Day 5
+Is any people work today? (Y/N)
+n
+Total hours worked per person ---------------------
+Andy: 17
+Garry: 9
+Jack: 13
+May: 25
+Wendy: 28
+Yuri: 10
+Total hours worked per day ---------------------
+Day 1: 45
+Day 2: 25
+Day 3: 0
+Day 4: 32
+Day 5: 0
+Suyis-MBP:Assignment_4 wusuyi$ 
